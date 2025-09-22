@@ -1,0 +1,78 @@
+# Compiled class files
+*.class
+out/
+target/
+build/
+
+# JAR files (keep lib/ for dependencies, but ignore other JARs)
+*.jar
+!lib/*.jar
+
+# Log files
+*.log
+
+# Package Files
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+
+# Build tools output
+bin/
+dist/
+
+# Test output
+test-output/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.metadata
+.recommenders
+
+# NetBeans
+nbproject/
+build.xml
+manifest.mf
+
+# Visual Studio Code
+.vscode/
+
+# Backup files
+*.bak
+*.backup
+
+# Windows batch file output
+*.bat.log
